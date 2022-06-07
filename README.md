@@ -1,1 +1,2 @@
-https://gavrishdaria.github.io/rsschool-cv/cv
+
+https://gavrishdaria.github.io/rsschool-cv/
