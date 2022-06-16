@@ -58,6 +58,7 @@ main {
     margin: 0 auto;
     align-items: center;
     width: 800px;
+    color: #696969;
 
     & > section {
         display: flex;
@@ -69,3 +70,62 @@ main {
         }
     }
 }
+
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #66CDAA;
+}
+
+
+.profession {
+display: flex;
+align-items: center;
+justify-content: center;
+color: #696969;
+}
+
+.myphoto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+footer {
+    width: 100%;
+    height: 60px;
+    background-color: #66CDAA;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+    height: 40px;
+    margin: 0 auto;
+
+    & a {
+        text-decoration: none;
+    }
+
+    & p {
+        color: #696969;
+    }
+
+}
+
+.rsschool {
+    background-image: url(/assets/img/background.png);
+    height: 40px;
+
+}
+
+
